@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ruby Abuye - [Github](https://github.com/SamuelRuby)
+Elyab Legese - [Github](https://github.com/Elyablegese)
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection. teznanubat u can cheat if u want
